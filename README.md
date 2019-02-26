@@ -9,4 +9,4 @@ Bayesian thinking involves the mathematical framework that underlies a self-driv
 Projects:
 Project-0-Joy Ride and Project-1-2D Histogram Filter in Python
 
-
+![alt text](https://github.com/EShakti/Intro-To-Self-Driving-Cars/blob/master/Images/1image.png)
