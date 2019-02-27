@@ -22,4 +22,8 @@ Project-2-Implement a Matrix Class
 ![alt text](https://github.com/EShakti/Intro-To-Self-Driving-Cars/blob/master/Images/Kalman.png)
 
 
-# Course 3: 
+# Course 3: C++ Basics
+
+This course introduces the usage of C++ in self-driving cars. The project involves the translation of a given program written in Python into C++.
+
+
