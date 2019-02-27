@@ -29,4 +29,10 @@ This course introduces the usage of C++ in self-driving cars. The project involv
 Projects:
 Project-3-Translate Python to C++
 
+# Course 4: Performance Programming in C++
+
+This course focuses on how to write good code that runs correctly. Primary focus is made on the low level language features of C++ which can make C++ fast.
+
+Projects:
+Project-4-Optimize-Histogram Filter
 
