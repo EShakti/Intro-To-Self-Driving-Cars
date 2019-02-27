@@ -15,6 +15,10 @@ Project-0-Joy Ride and Project-1-2D Histogram Filter in Python
 
 In this course, you will touch on Object Oriented Programming(OOP) and matrix math skills by filling out the methods in a partially-completed 'Matrix' class.
 
+Projects:
+Project-2-Implement a Matrix Class
+
+
 ![alt text](https://github.com/EShakti/Intro-To-Self-Driving-Cars/blob/master/Images/Kalman.png)
 
 
