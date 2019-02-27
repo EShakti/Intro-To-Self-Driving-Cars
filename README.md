@@ -26,4 +26,7 @@ Project-2-Implement a Matrix Class
 
 This course introduces the usage of C++ in self-driving cars. The project involves the translation of a given program written in Python into C++.
 
+Projects:
+Project-3-Translate Python to C++
+
 
