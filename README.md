@@ -36,3 +36,23 @@ This course focuses on how to write good code that runs correctly. Primary focus
 Projects:
 Project-4-Optimize-Histogram Filter
 
+# Course 5: Navigating Complex Data Structures
+
+Navigating Complex Data Structures involves the algorithm implementation based on Algorithmic thinking that show up most frequently in self-driving cars.
+
+Projects:
+Project-5-Planning an Optimal Path
+
+# Course 6: Visualizing Calculus and Controls
+
+You will learn the basics of calculus, the mathematics of continuity. Also, you will learn to use some of Python's most popular visualization libraries.
+
+Projects:
+Project-6-Trajectory Visualizer
+
+# Course 7: Machine Learning and Computer Vision
+
+In this course, you will learn how a computer sees an image and how we can use machine learning to teach a computer to identify images programmatically.
+
+Projects:
+Project-7-Image Classifier from Scratch
